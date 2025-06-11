@@ -1,0 +1,7 @@
+{
+  "name": "testrtsp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
